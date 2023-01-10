@@ -1,0 +1,36 @@
+In this milestone, I completed all the game mechanics, art and music, 
+and meet all the final project requirements. I'll be early demoing on tuesday.
+
+Game Name: Magic Maze
+Introduction
+Your friend is trapped in a palace from the 
+sky. Before saving your friend, you need to go 
+through some magic mazes. Those mazes are 
+consist of tiles, you need to step on EVERY tile 
+before going to the next level or you will die. 
+Once you start, whichever tile you step on will 
+disappear after moving on to the next tile. If 
+you try to go back you'll fall from the sky and 
+die. 
+Press ENTER to continue. 
+
+Tips: 
+The swirling ports will teleport you to a 
+different tile. Think about the possible location
+it will teleport you to. Also, watch out for the
+"mouth". If you step on it, you'll get eaten. 
+Use UP, DOWN, LEFT, RIGHT to move.
+You can press ENTER to pause the game. 
+If you lose, press ENTER to retry from that level,
+or press SELECT to go to the main menu. 
+Press ENTER to continue. 
+
+Tips:
+Cheat Mode: Press B, tiles will stop 
+disappearing, as long as you reach the end you 
+win.And you won't fall from the sky. But you 
+can still lose the game if you get eaten by 
+the mouth.
+Invincible Mode: Press A to skip levels if 
+you want to scan through all the levels. 
+Press ENTER to continue. 
