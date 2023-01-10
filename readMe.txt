@@ -1,6 +1,3 @@
-In this milestone, I completed all the game mechanics, art and music, 
-and meet all the final project requirements. I'll be early demoing on tuesday.
-
 Game Name: Magic Maze
 Introduction
 Your friend is trapped in a palace from the 
